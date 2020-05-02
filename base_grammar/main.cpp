@@ -35,5 +35,27 @@ int main(){
     cout << "result13:" << res13 << endl;
     int res14 = my_string_class();
     cout << "result14:" << res14 << endl;
+    int res15 = my_pointer1();
+    cout << "result15:" << res15 << endl;
+    int res16 = my_pointer2();
+    cout << "result16:" << res16 << endl;
+    int res17 = my_quote_test1();
+    cout << "result17:" << res17 << endl;
+    int res18 = current_date_time();
+    cout << "result18:" << res18 << endl;
+    int res19 = my_format_time();
+    cout << "result19:" << res19 << endl;
+    int res20 = stander_out();
+    cout << "result20:" << res20 << endl;
+    int res21 = standard_in1();
+    cout << "result21:" << res21 << endl;
+    int res22 = standard_err1();
+    cout << "result22:" << res22 << endl;
+    int res23 = my_book_test();
+    cout << "result23:" << res23 << endl;
+    int res24 = my_book_test2();
+    cout << "result24:" << res24 << endl;
+    int res25 = my_book_test3();
+    cout << "result25:" << res25 << endl;
 }
 
