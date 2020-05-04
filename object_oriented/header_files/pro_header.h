@@ -41,4 +41,10 @@ int my_template1();
 int my_template2();
 int my_preprocessor1();
 int my_condition_compilation1();
+int my_preprocessor2();
+int my_macro1();
+int my_signal1();
+int my_signal2();
+int my_multithreading();
+int my_vector1();
 #endif //OBJECT_ORIENTED_PRO_HEADER_H

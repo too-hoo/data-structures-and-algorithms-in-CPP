@@ -76,6 +76,18 @@ int main() {
     std::cout << "result36:" << res36 << std::endl;
     int res37 = my_condition_compilation1();
     std::cout << "result37:" << res37 << std::endl;
+    int res38 = my_preprocessor2();
+    std::cout << "result38:" << res38 << std::endl;
+    int res39 = my_macro1();
+    std::cout << "result39:" << res39 << std::endl;
+    // int res40 = my_signal1();
+    // std::cout << "result40:" << res40 << std::endl;
+    // int res41 = my_signal2();
+    // std::cout << "result41:" << res41 << std::endl;
+    // int res42 = my_multithreading();
+    // std::cout << "result42:" << res42 << std::endl;
+    int res43 = my_vector1();
+    std::cout << "result43:" << res43 << std::endl;
     // std::cout << "Hello, World!" << std::endl;
     return 0;
 }
